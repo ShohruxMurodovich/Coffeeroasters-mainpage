@@ -37,7 +37,7 @@
 
 body{
   font-family: 'Barlow', sans-serif;
-  background-color: #F2F2F2;;
+  background-color: #FFFFFD;
 }
 
 h1,h2,h3,h4,h5,h6,ul,ol,p{
@@ -261,6 +261,7 @@ h1,h2,h3,h4,h5,h6,ul,ol,p{
 
 .how-it-works{
   margin-top: 300px;
+  margin-left: 100px;
 }
 
 .how-it-works__title{
